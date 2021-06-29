@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Third Party
     'rest_framework',
+    
     # Local
     'temperature',
 ]
